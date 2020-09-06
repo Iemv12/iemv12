@@ -4,7 +4,7 @@ Hi, I'm Ivan Matos, a passionate self-taught Frontend and Backend developer from
 <br/>
 ![age](https://img.shields.io/badge/Age-21-blue)
 ![focus](https://img.shields.io/badge/Focus-Backend-brightgreen)
-![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
+![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey)
 <br/>
 
 
