@@ -21,7 +21,7 @@ Hi, I'm Ivan Matos, a passionate self-taught Frontend and Backend developer from
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; **Languages :** JavaScript | TypeScript | PHP | Java | C# 
+- 💻 &nbsp; **Languages :** JavaScript | TypeScript | PHP | Java
 - 🧰 &nbsp; **Frameworks :** Bootstrap | Node.js | Express | Angular |  Laravel 
 - 🛢 &nbsp; **DataBase :** Oracle | MySQL | MongoDB
 - 🔧 &nbsp; **Tools :** Git 
@@ -29,9 +29,8 @@ Hi, I'm Ivan Matos, a passionate self-taught Frontend and Backend developer from
 
 ### 🐙 Git Stats
 
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Iemv12&show_icons=true" alt="Iemv12's GitHub Stats" />
-</a>
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=Iemv12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ⭐️ From [iemv12](https://github.com/iemv12)
