@@ -1,4 +1,4 @@
-## :man_technologist:  Hi, i'm Ivan! 
+## 🚀 Hi, i'm Ivan! 
 
 Hi, I'm Ivan Matos, a passionate self-taught Frontend and Backend developer from Dominican Republic :wave:.
 <br/>
@@ -7,6 +7,7 @@ Hi, I'm Ivan Matos, a passionate self-taught Frontend and Backend developer from
 ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey)
 <br/>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/ivan-ernesto-matos-villar-a00b581b3/">Ivan Matos</a>
