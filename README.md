@@ -8,11 +8,6 @@ Hi, I'm Ivan Matos, a passionate self-taught Frontend and Backend developer from
 <br/>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/ivan-ernesto-matos-villar-a00b581b3/">Ivan Matos</a>
-- Instagram: <a href = "https://www.instagram.com/ivan__emv12/">ivan__emv12</a>
-- Twitter: <a href = "https://twitter.com/ivan_emv12">ivan_emv12</a>
-- Website: coming soon
 
 ### 👨🏻‍💻 About Me
 
