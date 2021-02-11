@@ -16,8 +16,8 @@ Hi, I'm Ivan Matos, a passionate self-taught Frontend and Backend developer from
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; **Languages :** JavaScript | TypeScript | C#
-- 🧰 &nbsp; **Frameworks :** Node.js | Express | React | DotNet Core | NestJs
+- 💻 &nbsp; **Languages :** HTML | CSS | JavaScript | TypeScript
+- 🧰 &nbsp; **Frameworks :** Nodejs | ExpressJs | React | NestJs
 - 🛢 &nbsp; **DataBase :** Oracle | MySQL | MongoDB
 - 🔧 &nbsp; **Tools :** Git 
 - 💪 &nbsp; **Hobbies :** Program, Music, Run, Eat
