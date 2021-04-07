@@ -3,7 +3,7 @@
 Hi, I'm Ivan Matos, a passionate self-taught Frontend and Backend developer from Dominican Republic :wave:.
 <br/>
 ![age](https://img.shields.io/badge/Age-21-blue)
-![focus](https://img.shields.io/badge/Focus-Backend-brightgreen)
+![focus](https://img.shields.io/badge/Focus-Frontend-brightgreen)
 ![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey)
 <br/>
 
@@ -16,10 +16,10 @@ Hi, I'm Ivan Matos, a passionate self-taught Frontend and Backend developer from
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; **Languages :** HTML | CSS | JavaScript | TypeScript
-- 🧰 &nbsp; **Frameworks :** Nodejs | ExpressJs | React | NestJs
-- 🛢 &nbsp; **DataBase :** Oracle | MySQL | MongoDB
-- 🔧 &nbsp; **Tools :** Git 
+- 💻 &nbsp; **Languages :** JavaScript | TypeScript
+- 🧰 &nbsp; **Frameworks :** React | Express | Nest | TailwindCss
+- 🛢 &nbsp; **DataBase :** MySQL | MongoDB
+- 🔧 &nbsp; **Tools :** Git | Strapi
 - 💪 &nbsp; **Hobbies :** Program, Music, Run, Eat
 
 ### 🐙 Git Stats
