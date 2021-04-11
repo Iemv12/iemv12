@@ -1,6 +1,6 @@
 ## 🚀 Hi, i'm Ivan! 
 
-Hi, I'm Ivan Matos, a passionate self-taught Frontend and Backend developer from Dominican Republic :wave:.
+Hi, I'm Ivan Matos, a passionate self-taught Software Developer from Dominican Republic :wave:.
 <br/>
 ![age](https://img.shields.io/badge/Age-21-blue)
 ![focus](https://img.shields.io/badge/Focus-Frontend-brightgreen)
