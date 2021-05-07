@@ -16,9 +16,9 @@ Hi, I'm Ivan Matos, a passionate self-taught Software Developer from Dominican R
 
 ### 🛠 Tech Stack
 
-- 💻 &nbsp; **Languages :** JavaScript | TypeScript
-- 🧰 &nbsp; **Frameworks :** React | Express | Nest | TailwindCss
-- 🛢 &nbsp; **DataBase :** MySQL | MongoDB
+- 💻 &nbsp; **Languages :** JavaScript | TypeScript | C#
+- 🧰 &nbsp; **Frameworks :** React | Nodejs | Microsoft .NET | TailwindCss
+- 🛢 &nbsp; **DataBase :** MySQL | MsSQL | MongoDB
 - 🔧 &nbsp; **Tools :** Git | Strapi
 - 💪 &nbsp; **Hobbies :** Program, Music, Run, Eat
 
