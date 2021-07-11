@@ -2,9 +2,8 @@
 
 Hi, I'm Ivan Matos, a passionate self-taught Software Developer from Dominican Republic :wave:.
 <br/>
-![age](https://img.shields.io/badge/Age-21-blue)
-![focus](https://img.shields.io/badge/Focus-Frontend-brightgreen)
-![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-lightgrey)
+![Focus](https://img.shields.io/badge/Focus-Backend-brightgreen)
+![Gender](https://img.shields.io/badge/Gender-%F0%9F%A4%B5-red)
 <br/>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -18,7 +17,7 @@ Hi, I'm Ivan Matos, a passionate self-taught Software Developer from Dominican R
 
 - 💻 &nbsp; **Languages :** JavaScript | TypeScript | C#
 - 🧰 &nbsp; **Frameworks :** React | Nodejs | Microsoft .NET | TailwindCss
-- 🛢 &nbsp; **DataBase :** MySQL | MsSQL | MongoDB
+- 🛢 &nbsp; **DataBase :** PostgreSQL | MsSQL | MongoDB
 - 🔧 &nbsp; **Tools :** Git | Strapi
 - 💪 &nbsp; **Hobbies :** Program, Music, Run, Eat
 
